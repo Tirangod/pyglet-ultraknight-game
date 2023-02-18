@@ -2,12 +2,6 @@
 
 Game is in development and considering that is project to improve skills and learn new technologies there wont be any huge progress. My purpose was to learn [Pyglet](https://pyglet.readthedocs.io/en/latest/index.html) that efforts OpenGL wrappers to use in Python. Game is hardcoded and has a little chaotic stracture so its not optimized yet and has awful performance but it will be fixed later. I also used already made game assets: [Free Pixel Art Forest](https://edermunizz.itch.io/free-pixel-art-forest), and other (will add later).
 
-#### Screenshots of gameplay:
-
-![img0](readme/Screenshot_2.png)
-
-![img1](readme/Screenshot_3.png)
-
 ### TODO
 
 - [X] Animated player entity
@@ -33,3 +27,9 @@ Game is in development and considering that is project to improve skills and lea
 - [ ] Lighting/shaders
 - [ ] Enemis AI
 - [ ] Main menu
+
+#### Screenshots of gameplay:
+
+![img0](readme/Screenshot_2.png)
+
+![img1](readme/Screenshot_3.png)
